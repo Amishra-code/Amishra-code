@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Amishra-code/Amishra-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +16,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 🔭 I’m currently looking to work with Tech Companies
 - 😄 Pronouns: She/Her
-
-#Socials
