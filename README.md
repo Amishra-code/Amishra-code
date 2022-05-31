@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header_](https://user-images.githubusercontent.com/85864787/171186533-61e6988a-2781-4b8d-8e4f-d707af993a40.png)
+
 
 - 🌱 I’m currently learning Web Development
 - 🔭 I’m currently looking to work with Tech Companies
