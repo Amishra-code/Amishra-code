@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
 <img align="right" src="https://user-images.githubusercontent.com/85864787/171186533-61e6988a-2781-4b8d-8e4f-d707af993a40.png" alt="Coding" width="100%">
-<h2 align="center">Computer Science Student</h2>
+<h1 align="center">Computer Science Student</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishra-code&label=Profile%20views&color=0e75b6&style=flat" alt="amishra-code" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to work with **Tech Companies**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PEPSPauaB0WUCSqEryx5rC_jG4A_L4ou/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +44,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amishra-code&show_icons=true&locale=en&layout=compact" alt="amishra-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishra-code&" alt="amishra-code" /></p>
-
