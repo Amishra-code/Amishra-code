@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to work with **Tech Companies**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PEPSPauaB0WUCSqEryx5rC_jG4A_L4ou/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sICI7yyrjva8DOo2BBgxHu34YRGGPGBV/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
