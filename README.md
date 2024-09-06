@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Spring Boot and ASP .NET**
 
 - 👯 I’m looking to work with **Tech Companies**
 
